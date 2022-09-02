@@ -1,1 +1,1 @@
-Display the content of the directory in long format
+display user and group ID, numerical in long format

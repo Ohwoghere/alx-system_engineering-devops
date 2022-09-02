@@ -1,1 +1,1 @@
-display user and group ID, numerical in long format
+script that creates a directory

@@ -1,1 +1,1 @@
-write a script that displays a file
+write a script that displays a confused smiley

@@ -1,1 +1,1 @@
-write a script that displays a file
+Write a script that prints"Hello, World"
